@@ -1,0 +1,1 @@
+{"uuid":"cd21708b-b147-4039-bbc9-7564e0b34a3a","name":"pa.Base.beforeMethod","children":["17558850-fd26-4bf1-b272-a55c4147eb5c"],"description":"","befores":[{"name":"beforeMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1766646936597,"stop":1766646938469}],"afters":[],"start":1766646936597,"stop":1766646938470}

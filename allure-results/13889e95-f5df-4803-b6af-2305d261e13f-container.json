@@ -1,0 +1,1 @@
+{"uuid":"13889e95-f5df-4803-b6af-2305d261e13f","name":"wrongscripts.Wrong1.setup","children":["a13930eb-d6f5-468c-8503-80b093ba02ba"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1767618865814,"stop":1767618871244}],"afters":[],"start":1767618865812,"stop":1767618871244}

@@ -1,0 +1,1 @@
+{"uuid":"38309d89-d48a-4cee-8a3c-243175d274a8","name":"pac1.GtTest.logine","children":["ab5cec0d-26c1-4c29-8999-142d7a7d1086"],"description":"","befores":[{"name":"logine","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1774347232089,"stop":1774347237104}],"afters":[],"start":1774347232089,"stop":1774347237104}

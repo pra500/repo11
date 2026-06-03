@@ -1,0 +1,12 @@
+<suite name="suite1">
+
+    <test name="test1">
+
+    <classes>
+        <class name="pac1.Yatra1Test">
+
+        </class>
+
+    </classes>
+    </test>
+</suite>

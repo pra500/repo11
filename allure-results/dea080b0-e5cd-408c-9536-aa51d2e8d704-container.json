@@ -1,0 +1,1 @@
+{"uuid":"dea080b0-e5cd-408c-9536-aa51d2e8d704","name":"pac1.Phonepeeee1Test.setup","children":["44f5cb18-385d-4f9f-a9fb-0b526b3dcd87"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1778933736746,"stop":1778933743858}],"afters":[],"start":1778933736746,"stop":1778933743858}

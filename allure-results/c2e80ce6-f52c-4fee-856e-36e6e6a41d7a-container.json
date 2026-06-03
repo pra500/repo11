@@ -1,0 +1,1 @@
+{"uuid":"c2e80ce6-f52c-4fee-856e-36e6e6a41d7a","name":"pac1.SliceTest.setup","children":["894f374f-a290-47f2-aa8f-da33bc2e7da6"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1778746292752,"stop":1778746302386}],"afters":[],"start":1778746292752,"stop":1778746302388}
